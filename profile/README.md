@@ -2,7 +2,8 @@
 
 Welcome to **EnteRHlytics Consulting Inc.** — Transforming data into business growth.
 
-![EnteRHlytics Logo](https://github.com/EnteRHlytics/.github/blob/main/profile/logo%20v1%20compressed.png) <!-- Replace with actual logo URL if available -->
+
+<img src="https://github.com/EnteRHlytics/.github/blob/main/profile/logo%20v1%20compressed.png" alt="Company logo" width="200" />
 
 ---
 
